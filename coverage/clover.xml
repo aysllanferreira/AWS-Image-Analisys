@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1681573706182" clover="3.2.0">
-  <project timestamp="1681573706182" name="All files">
+<coverage generated="1681574880645" clover="3.2.0">
+  <project timestamp="1681574880645" name="All files">
     <metrics statements="110" coveredstatements="110" conditionals="13" coveredconditionals="13" methods="6" coveredmethods="6" elements="129" coveredelements="129" complexity="0" loc="110" ncloc="110" packages="1" files="3" classes="3"/>
     <file name="factory.js" path="/Users/macbook/Desktop/AWS Study/demo03-image-analysis/image-analysis/src/factory.js">
       <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
